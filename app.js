@@ -1,5 +1,5 @@
 
-let numeroMaximoPosible = 100; // Declaramos la variable que contendrá el número máximo posible
+let numeroMaximoPosible = 10; // Declaramos la variable que contendrá el número máximo posible
 let numeroMinimoPosible = 1; // Declaramos la variable que contendrá el número mínimo posible
 let numeroSecreto = Math.floor (Math.random()*numeroMaximoPosible)+1; // Declaramos la variable que contendrá el número secreto
 let numeroUsuario = 0;
